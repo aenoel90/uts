@@ -1,0 +1,16 @@
+body{
+	background-color: teal;
+	font-size:16px;
+	color:#444;
+	font-family: sans-serif;
+}
+.kotak{
+	width: 90%;
+	background: beige;
+	margin: 20px auto;
+    padding: 7px 7px;
+    border-radius: 3px;
+}
+h2{
+	color: darkcyan;
+}
